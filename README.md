@@ -1,16 +1,16 @@
-<h1> Bienvenue sur le profil de Arthur Augis </h1>
+<h1>Welcome to Arthur Augis's Profile</h1>
 
-🚧 **En construction :** La v2 de mon GitHub est actuellement en cours de développement !
+🚧 **Under Construction:** The v2 of my GitHub is currently under development!
 
-# Mon site perso/portfolio
+# My Personal Website/Portfolio
 https://arthuraugis.fr
 
-## Logiciels utilisés
+## Software Used
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
 
-## Les langages utilisés
+## Languages Used
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,7 +19,6 @@ https://arthuraugis.fr
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-  
-## Frameworks PHP utilisés
+## PHP Frameworks Used
 ![CodeIgniter Badge](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=fff&style=for-the-badge)
 
