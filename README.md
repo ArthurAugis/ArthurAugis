@@ -18,5 +18,5 @@
 
   
 ## Frameworks PHP utilisés
-- CodeIgniter
+![CodeIgniter Badge](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=fff&style=for-the-badge)
 
