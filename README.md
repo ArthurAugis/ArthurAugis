@@ -3,7 +3,7 @@
 🚧 **En construction :** La v2 de mon GitHub est actuellement en cours de développement !
 
 # Mon site perso/portfolio
-<a href="https://arthuraugis.fr" target="_blank">https://arthuraugis.fr</a>
+https://arthuraugis.fr
 
 ## Logiciels utilisés
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
