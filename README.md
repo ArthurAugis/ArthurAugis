@@ -1,6 +1,6 @@
 <h1> Bienvenue sur le profil de Arthur Augis </h1>
 
-## <a href="https://arthuraugis.fr">Mon site perso/portfolio</a>
+# <a href="https://arthuraugis.fr">Mon site perso/portfolio</a>
 
 🚧 **En construction :** La v2 de mon GitHub est actuellement en cours de développement !
 
