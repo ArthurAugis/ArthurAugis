@@ -1,6 +1,6 @@
 <h1>Welcome to Arthur Augis's Profile</h1>
 
-🚧 **Under Construction:** The v2 of my GitHub is currently under development!
+I'm a 19 year old student who enjoys coding in my free time.
 
 # My Personal Website/Portfolio
 https://arthuraugis.fr
