@@ -35,3 +35,5 @@ https://arthuraugis.fr
 ![AJAX](https://img.shields.io/badge/AJAX-0A8DE1.svg?style=for-the-badge&logo=ajax&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+Here is a test
