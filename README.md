@@ -1,6 +1,6 @@
 <h1>Welcome to Arthur Augis's Profile</h1>
 
-I'm a 20 year old student who enjoys coding in my free time.
+I'm a 21 year old student who enjoys coding in my free time.
 
 # My Personal Website/Portfolio
 https://arthuraugis.fr
